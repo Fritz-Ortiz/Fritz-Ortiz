@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I'm Fritz Ortiz, a software developer specializing in Python automation and data processing. I enjoy building projects that challenge my skills and exploring new technologies. This is my GitHub profile, where I share my personal and open-source projects.
+Hello, I'm Fritz Ortiz, a full-stack software developer with a specialization in Automation. I enjoy building projects that challenge my skills and exploring new technologies. This is my GitHub profile, where I share my personal and open-source projects.
 
 ## Projects
 
