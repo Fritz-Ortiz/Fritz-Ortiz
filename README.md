@@ -24,7 +24,7 @@ Hello, I'm Fritz Ortiz, a full-stack software developer with a specialization in
 
 Here are some examples of projects I have worked on:
 
-1. Unit Status Report Automation
+1. Checks-mate / Unit Status Report Automation
    - Description: This Python-based Program gathers information about my company's deployed hardware and creates timeline graphs that are then sent through email to set recepients
    - GitHub Repository: The repo is currently private due to the program working on the company's information, but you can read a general overview of the program [HERE](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e64b0357-4705-43b5-bbcf-3646a410c877)
    - Technologies used: [Selenium](https://www.selenium.dev), [Matplotlib](https://matplotlib.org), [SMTP](https://docs.python.org/3/library/smtplib.html)
